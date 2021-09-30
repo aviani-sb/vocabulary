@@ -1,0 +1,7 @@
+# subject | word | definition | url (optional)
+
+development | CR | Code review (from a developer peer, usually someone more senior but not always); should be done via a Github Pull Request (PR)
+development | ATR | "All tests run": each test case of the QA plan has been fully run, and no blocking issues remain. We want to get ATR as soon as possible in a typical QA period. Once ATR, the next goal is ATP.
+development | HotFix | This is a bug in our platform that is has a high impact and needs to be fixed and pushed to production ASAP. Usually a WEB item. These will usually have their own special deployments to production.
+development | Bug |  We have budget to fix bugs in the platform. These bugs are generally important to fix but not hotfix worthy. These are worked as they are prioritized by product management. No special deployment for these bug fixes.
+development | PDC |  Post Deploy Checks. There are fields from Jira that describe the checks.
