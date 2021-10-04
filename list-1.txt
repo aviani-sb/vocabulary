@@ -1,4 +1,4 @@
-# subject | word | definition | url (optional)
+# category | word | definition | url (optional)
 #
 development | CR | Code review (from a developer peer, usually someone more senior but not always); should be done via a Github Pull Request (PR) # ignore
 development | ATR | "All tests run": each test case of the QA plan has been fully run, and no blocking issues remain. We want to get ATR as soon as possible in a typical QA period. Once ATR, the next goal is ATP.
