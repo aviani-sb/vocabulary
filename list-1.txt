@@ -6,3 +6,7 @@ development | HotFix | This is a bug in our platform that is has a high impact a
 development | Bug |  We have budget to fix bugs in the platform. These bugs are generally important to fix but not hotfix worthy. These are worked as they are prioritized by product management. No special deployment for these bug fixes.
 development | PDC |  Post Deploy Checks. There are fields from Jira that describe the checks.
 development | MOO |  Made up word that has no meaning. | https://www.moose.com/ | # this is a test!
+
+vocab 2021-10 | tumid | abnormally distended especially by fluids or gas | https://www.vocabulary.com/lists/340818
+vocab 2021-10 | filigree | delicate and intricate ornamentation | https://www.vocabulary.com/lists/340818
+vocab 2021-10 | intemperance | excess in action and immoderate indulgence of appetites | https://www.vocabulary.com/dictionary/$w
