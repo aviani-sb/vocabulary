@@ -13,4 +13,4 @@ vocab 2021-10 | intemperance | excess in action and immoderate indulgence of app
 
 crypto | Decentralized API (dAPI) | API services that are intrinsically interoperable with blockchain technology are known as decentralized application programming interfaces (dAPIs). This is an invention of the API3 protocol. | https://coinmarketcap.com/alexandria/glossary/$w
 
-crtypo | Address | A place where cryptocurrency can be sent to and from, in the form of a string of letters and numbers. | https://coinmarketcap.com/alexandria/glossary/$w
+crypto | Address | A place where cryptocurrency can be sent to and from, in the form of a string of letters and numbers. | https://coinmarketcap.com/alexandria/glossary/$w
