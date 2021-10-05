@@ -10,3 +10,7 @@ development | MOO |  Made up word that has no meaning. | https://www.moose.com/ 
 vocab 2021-10 | tumid | abnormally distended especially by fluids or gas | https://www.vocabulary.com/dictionary/$w
 vocab 2021-10 | filigree | delicate and intricate ornamentation | https://www.google.com/search?q=$w
 vocab 2021-10 | intemperance | excess in action and immoderate indulgence of appetites | https://www.vocabulary.com/dictionary/$w
+
+crypto | Decentralized API (dAPI) | API services that are intrinsically interoperable with blockchain technology are known as decentralized application programming interfaces (dAPIs). This is an invention of the API3 protocol. | https://coinmarketcap.com/alexandria/glossary/$w
+
+crtypo | Address | A place where cryptocurrency can be sent to and from, in the form of a string of letters and numbers. | https://coinmarketcap.com/alexandria/glossary/$w
